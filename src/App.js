@@ -4,7 +4,7 @@ import Login from './Components/Login/Login';
 import { createContext } from 'react';
 import Auth from './Components/Auth/Auth';
 
-export const userContext = createContext('user');
+export const userContext = createContext();
 
 function App() {
   const user = {
