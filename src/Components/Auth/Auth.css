@@ -1,0 +1,16 @@
+.homepage {
+  text-align: center;
+}
+
+button {
+  background-color: crimson;
+  color: white;
+  border: none;
+  padding: 5px 75px;
+  cursor: pointer;
+  transition: all 0.5s ease;
+}
+
+button:hover {
+  background-color: #000;
+}

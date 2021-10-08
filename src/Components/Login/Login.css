@@ -1,0 +1,28 @@
+.login {
+  text-align: center;
+}
+
+.login-form {
+  width: 300px;
+  padding: 25px;
+  border: 1px solid lightgray;
+  margin: auto;
+}
+
+.login-form input {
+  border: 1px solid lightgray;
+  padding: 5px 10px;
+}
+
+.login-form button {
+  background-color: crimson;
+  color: white;
+  border: none;
+  padding: 5px 75px;
+  cursor: pointer;
+  transition: all 0.5s ease;
+}
+
+.login-form button:hover {
+  background-color: #000;
+}
